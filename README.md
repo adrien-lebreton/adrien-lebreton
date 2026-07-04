@@ -81,7 +81,7 @@ Most of what I build lives in private client repos under NDA, so the public side
 
 AWS Cloud Solutions Architect · Google Cybersecurity · Google Project Management · Scrum Master · PMI-PMP® (training)
 
-**Education:** MSc in Information Technologies &amp; Software Engineering, Université de Bretagne Occidentale.
+**Education:** MSc in Information Technologies &amp; Software Engineering, Université de Bretagne Occidentale (France).
 
 ---
 
